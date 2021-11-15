@@ -39,3 +39,12 @@ console.log(Boolean(caBigMac === euBigMac));
 
 console.log(Boolean(swBigMac > usBigMac));
 console.log(Boolean(swBigMac > euBigMac));
+
+brBigMac="British Pound"
+auBigMac="Australian Dollar"
+caBigMac="Canadian Dollar"
+swBigMac="Swiss Franc"
+euBigMac="Europian Euro"
+
+console.log(auBigMac + " has a higher BMI");
+console.log(brBigMac + " has a lower BMI");
